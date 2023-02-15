@@ -1,3 +1,6 @@
-import ExcerciciB
+import ExcerciciA
+import exircici_B
 
-ExcerciciB.arxiuXML()
+ExcerciciA.arxiuXML()
+exircici_B.arxiujson()
+exircici_B.lleguirjson()
