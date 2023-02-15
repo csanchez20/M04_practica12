@@ -1,3 +1,5 @@
+#Aixo es una taula feta amb xml desde .py i está el root i els seus fills amb les seves variables
+
 import xml.etree.ElementTree as ET
 
 def arxiuXML():
