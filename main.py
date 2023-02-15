@@ -1,0 +1,3 @@
+import ExcerciciB
+
+ExcerciciB.arxiuXML()
